@@ -4,4 +4,4 @@
 
 ### Home Page 🏡
 
-![Home Page Screenshot](/fullstack-ecommerce-client/src/screenshot/fullstack-ecommerce-client.netlify.app_.png);
+![Home Page Screenshot](./src/screenshot/fullstack-ecommerce-client.netlify.app_.png);
